@@ -1,0 +1,8 @@
+{
+  "name": "oneweb-publish",
+  "version": "0.0.1",
+  "dependencies": {
+    "noflo-core": "^0.1.14",
+    "noflo-filesystem": "^1.0.6"
+  }
+}
